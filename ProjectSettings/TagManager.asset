@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Enemy
+  - Phoenix
+  - FireTrap
+  - Portal
+  - Trap
+  - Pause
+  - Audio
+  - Ground
+  - Tooltips
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Scenery
+  - Interactable
+  - Respawn
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2792740253
+    locked: 0
+  - name: Entity
+    uniqueID: 18223875
+    locked: 0
+  - name: Foreground
+    uniqueID: 3012480127
+    locked: 0
+  - name: Collectables
+    uniqueID: 1011078517
+    locked: 0
+  - name: Foliage
+    uniqueID: 1215019051
+    locked: 0
+  - name: Player
+    uniqueID: 190278649
+    locked: 0
+  - name: RespawnPoints
+    uniqueID: 3763893263
+    locked: 0

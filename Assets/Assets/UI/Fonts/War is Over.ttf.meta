@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0d33929481b0da942b45f7049e77f9be
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - War is Over
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 857f0dfd6103f8e449521ec46b4aa365, type: 3}
+  - {fileID: 12800000, guid: 27798ea9ba8fc764098ace2355aaf059, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
